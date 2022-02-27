@@ -1,18 +1,14 @@
-# Getting Started with Create React App
+# Expense-Tracking-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is was created to showcase my basic react skill
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This  Expenses Tracker, tracks items versus their corresponding amount with time stamp. It also enable sorting of recordings by year.
+### `Installation`
 
-### `npm start`
+Runs npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
